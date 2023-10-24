@@ -25,7 +25,7 @@ The supported methods are linear_softmax and qccpn
 
 For running CI-QCCPN, you can use this argument
 ```
-python main.py ci_qccpn --dataset uecfood100 --n_epoch 50 -trial 5
+python main.py ci_qccpn --dataset uecfood100 --n_epoch 50 --trial 5
 ```
 
 Please check "_result" folder for the results of the running code.
