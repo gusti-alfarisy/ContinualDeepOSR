@@ -1,4 +1,6 @@
-# Continual Deep Open Set Recognition
+# Enhancing Continual Deep Open Set Recognition with Perceptive Unknown Feature Search - Class Incremental Quad-Channel constrastive Prototype Networks (CI-QCCPN).
+
+This is the official code for the paper entitled "Enhancing Continual Deep Open Set Recognition with Perceptive Unknown Feature Search"
 
 ## Feature Extraction
 If you do not have the dataset, please download the extracted features from this link: https://drive.google.com/file/d/1zZUGH3J4K-8R0wPR-erwdL2DNJMEoKCz/view?usp=sharing
@@ -28,4 +30,4 @@ python main.py ci_qccpn --dataset uecfood100 --n_epoch 50
 
 Please check "_result" folder for the results of the running code.
 
-Please feel free to contact me if you encountered any issue :).
+Please feel free to contact me if you encounter any issues :).
