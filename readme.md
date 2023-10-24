@@ -2,6 +2,8 @@
 
 This is the official code for the paper entitled "Enhancing Continual Deep Open Set Recognition with Perceptive Unknown Feature Search"
 
+![MarineGEO circle logo](/ci_qccpn.png)
+
 ## Feature Extraction
 If you do not have the dataset, please download the extracted features from this link: https://drive.google.com/file/d/1zZUGH3J4K-8R0wPR-erwdL2DNJMEoKCz/view?usp=sharing
 
