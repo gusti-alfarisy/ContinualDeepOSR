@@ -16,7 +16,7 @@ The supported datasets for feature extraction are oxfordpet and uecfood100.
 ## Rejection Evidence
 
 ```
-python main.py reject_forget_evidence --dataset uecfood100 --n_epoch 50 --model linear_softmax
+python main.py reject_forget_evidence --dataset uecfood100 --n_epoch 50 --model linear_softmax --trial 5
 ```
 
 The supported methods are linear_softmax and qccpn
@@ -25,7 +25,7 @@ The supported methods are linear_softmax and qccpn
 
 For running CI-QCCPN, you can use this argument
 ```
-python main.py ci_qccpn --dataset uecfood100 --n_epoch 50
+python main.py ci_qccpn --dataset uecfood100 --n_epoch 50 -trial 5
 ```
 
 Please check "_result" folder for the results of the running code.
