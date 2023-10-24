@@ -4,6 +4,11 @@ This is the official code for the paper entitled "Enhancing Continual Deep Open 
 
 ![MarineGEO circle logo](/ci_qccpn.jpg)
 
+Note that in the paper:
+
+* In Section II-C, the PUFF process is not presented in step 2, but rather in **step 3**.
+* In Section III, we run the model with **three permutations** instead of five permutations.
+
 ## Feature Extraction
 If you do not have the dataset, please download the extracted features from this link: https://drive.google.com/file/d/1zZUGH3J4K-8R0wPR-erwdL2DNJMEoKCz/view?usp=sharing
 
