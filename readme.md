@@ -6,7 +6,7 @@ This is the official code for the paper entitled "Enhancing Continual Deep Open 
 
 Note that in the paper:
 
-* In Section II-C, the PUFF process is not presented in step 2, but rather in **step 3**.
+* In Section II-C, the PUFS process is not presented in step 2, but rather in **step 3**.
 * In Section III, we run the model with **three permutations** instead of five permutations.
 
 ## Feature Extraction
