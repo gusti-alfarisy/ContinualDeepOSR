@@ -15,7 +15,7 @@ If you do not have the dataset, please download the extracted features from this
 Otherwise, you can run the code by:
 
 ```
-python main.py extract_feature --dataset uecfood100
+python main.py extract_feature --dataset uecfood100 --datapath FOLDER_CONTAINING_FOLDERS_OF_DATASET
 ```
 
 The supported datasets for feature extraction are oxfordpet and uecfood100.
