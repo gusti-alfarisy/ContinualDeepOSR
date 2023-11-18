@@ -1,4 +1,4 @@
-# Enhancing Continual Deep Open Set Recognition with Perceptive Unknown Feature Search - Class Incremental Quad-Channel constrastive Prototype Networks (CI-QCCPN).
+# Enhancing Continual Deep Open Set Recognition with Perceptive Unknown Feature Search - Class Incremental Quad-Channel Constrastive Prototype Networks (CI-QCCPN).
 
 This is the official code for the paper entitled "Enhancing Continual Deep Open Set Recognition with Perceptive Unknown Feature Search"
 
